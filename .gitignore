@@ -1,0 +1,4 @@
+# Local preview only — do not publish
+preview.html
+.DS_Store
+Thumbs.db
